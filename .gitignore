@@ -1,0 +1,13 @@
+# Compiled source #
+###################
+.Release
+.Debug
+.localhistory
+
+#VS Stuff
+##############
+*.cd
+*.vcxproj.filters
+*.localhistory?
+*.suo
+*.v11
