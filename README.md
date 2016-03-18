@@ -3,7 +3,7 @@
 
 This codebase is a starter C++ assignment.  Most of the code for an interactive ASCII art style game is given.  
 Here is a screenshot of the intro:
-![My image](kperkins411.github.com/cpp-Cosmo/intro.png)
+![My image](kperkins411.github.com/cpp-Cosmo/blob/master/intro.png)
 
 See Project 5 Balloon Pop CPSC 427_FALL15.pdf for description.
 See ./Release/Cosmo.exe for working example of completed project
