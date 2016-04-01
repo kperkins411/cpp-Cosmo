@@ -1,7 +1,7 @@
 # cpp-Cosmo
 ##An ASCII art project.  
 
-This codebase is a starter C++ assignment.  Most of the code for an interactive ASCII art style game is given.  
+This codebase is a starter C++ assignment that I created a few years back.  Most of the code for an interactive ASCII art style game is given.  
 Here is a screenshot of the intro:
 ![My image](https://github.com/kperkins411/cpp-Cosmo/blob/master/intro.png)
 
