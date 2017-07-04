@@ -1,5 +1,5 @@
 # cpp-Cosmo
-##An ASCII art project.  
+## An ASCII art project.  
 
 This codebase is a starter C++ assignment that I created a few years back.  Most of the code for an interactive ASCII art style game is given.  
 Here is a screenshot of the intro:
